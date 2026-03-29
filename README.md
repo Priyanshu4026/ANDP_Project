@@ -1,6 +1,6 @@
 # 📊 Project Title
 
-> Short one-line description of your project (e.g., *Interactive dashboard for analyzing Netflix and Spotify data using Power BI / Excel*)
+Interactive dashboard for analyzing Netflix and Spotify data using Power BI / Excel
 
 ---
 
@@ -98,8 +98,8 @@ This project is licensed under the MIT License.
 
 **Priyanshu Pandey**
 
-* GitHub: [](https://github.com/Priyanshu4026)
-* LinkedIn: ([](https://www.linkedin.com/in/priyanshu-pandey-j06?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app))
+* GitHub: [https://github.com/Priyanshu4026]
+* LinkedIn: [https://www.linkedin.com/in/priyanshu-pandey-j06?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app]
 
 ---
 
